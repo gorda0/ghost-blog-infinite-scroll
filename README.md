@@ -57,6 +57,3 @@ $('.content').append($(content).children(".post"));
 * Replace ```.content``` with the appropriate selector for the main container of the posts.
 * Replace ```.post``` with the appropriate selector for your articles/blogs
 
-
-Ask any questions over at [Facebook](https://www.facebook.com/profile.php?id=100007972269711) or [Google+](https://plus.google.com/113913189482409702580)
-
